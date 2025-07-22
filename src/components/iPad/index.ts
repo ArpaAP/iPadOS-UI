@@ -1,0 +1,6 @@
+export { IPadFrame } from './iPadFrame'
+export { Screen } from './Screen'
+export { StatusBar } from './StatusBar'
+export { HomeIndicator } from './HomeIndicator'
+export { Dock } from './Dock'
+export { HomeScreen } from './HomeScreen' 
